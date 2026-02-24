@@ -23,7 +23,7 @@ git commit -m "first commit"
 [Датс Веб сайт руу шилжих](http://stda.edu.mn/)
 
 ## Зураг оруулах
-![Project Screenshot](images/screenshot.png)
+![Project Screenshot](OneDrive/Desktop/images/screenshot.png)
 
 ## Хүснэгт
 
